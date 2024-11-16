@@ -1,0 +1,13 @@
+Model\PojoOrder.class
+Model\PojoUser.class
+RestApis\RequestsOrders.class
+RestApis\Requests.class
+RestApis\RequestsUsers.class
+praktikum\Praktikum.class
+Model\PojoIngredients.class
+praktikum\IngredientType.class
+praktikum\Database.class
+praktikum\Ingredient.class
+praktikum\Bun.class
+praktikum\Burger.class
+RestApis\RequestsIngredients.class

@@ -1,0 +1,8 @@
+OrderCreation.class
+BaseTests\BaseUserTest.class
+UserLoginTest.class
+BaseTests\BaseOrderTest.class
+OrderGetTest.class
+UserEditTest.class
+BaseTests\BaseTest.class
+UserCreationTest.class
